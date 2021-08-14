@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Token Files
+token.txt
+
+
 # C extensions
 *.so
 
